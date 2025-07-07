@@ -6,7 +6,7 @@ html, body {
 body {
 	margin: 0;
 	padding: 0;
-	background-color: #34495e;
+	background-image: url(img/Fondo_Simpsons.jpg);
 }
 
 h1{
@@ -15,7 +15,7 @@ h1{
 }
 
 div#memory_board {
-	background: #eccd6a; /*rgb(128, 91, 91);*/
+	background-color: transparent;
 	border: #000 1px solid;
 	width: 984px;
 	height: 650px;
